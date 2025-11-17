@@ -1,0 +1,14 @@
+{
+  "name": "cafe-vereda-web",
+  "version": "1.0.0",
+  "description": "Frontend web para Café de Vereda - Next.js + Tailwind",
+  "main": "app/next.config.js",
+  "scripts": {
+    "dev": "cd app && next dev",
+    "build": "cd app && next build",
+    "start": "cd app && next start",
+    "lint": "cd app && next lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
